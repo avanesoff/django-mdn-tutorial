@@ -6,7 +6,7 @@
 - [x] Tutorial Part 2: Creating a skeleton website
 - [x] Tutorial Part 3: Using models
 - [x] Tutorial Part 4: Django admin site
-- [ ] Tutorial Part 5: Creating our home page
+- [x] Tutorial Part 5: Creating our home page
 - [ ] Tutorial Part 6: Generic list and detail views
 - [ ] Tutorial Part 7: Sessions framework
 - [ ] Tutorial Part 8: User authentication and permissions
